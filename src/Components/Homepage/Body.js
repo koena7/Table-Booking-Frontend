@@ -1,4 +1,4 @@
-import Home from '../icons_assets/restauranfood.jpg'
+import Home from '../../icons_assets/restauranfood.jpg'
 import './style.css'
 import Card from './Card';
 const Body = ()=>{

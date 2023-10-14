@@ -1,4 +1,4 @@
-import GreekSalad from '../icons_assets/greek salad.jpg'
+import GreekSalad from '../../icons_assets/greek salad.jpg'
 import './style.css';
 import DeliveryDiningIcon from '@mui/icons-material/DeliveryDining';
 

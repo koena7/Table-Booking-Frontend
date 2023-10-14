@@ -1,4 +1,4 @@
-import Logo from '../icons_assets/Logo.svg'
+import Logo from '../../icons_assets/Logo.svg'
 import './style.css'
 
 const Header = ()=>{
@@ -10,7 +10,7 @@ const Header = ()=>{
                     <li>Home</li>
                     <li>About</li>
                     <li>Menu</li>
-                    <li>Reservation</li>
+                    <a href='/bookings'><li>Reservation</li></a>
                     <li>Order Online</li>
                     <li>Login</li>
                 </ul>
